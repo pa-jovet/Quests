@@ -1,0 +1,6 @@
+- Ouvrir `Active Directory Domains and Trusts`
+- Dans la fenêtre de gauche, faire un clic droit sur `wilders.lan` > Manage
+- Dans la nouvelle fenêtre `Active Directory Users and Computers`, faire un clic droit sur `wilders.lan` > `New` > `Organizational Unit` et la nommer Wilders_Students
+- Une fois l'OU créée, faire un clic droit dessus > `New` > `Group` et le nommer Students
+- Faire un nouveau clic droit sur l'OU Wilders_students > `New` > `User` et lui donner le full name, le logon et le mot de passe de son choix
+- Une fois l'utilisateur créé, faire un clic droit dessus > `Add to a group` > Taper le nom du groupe dans la fenêtre et le vérifier avec `Check names` puis valider
